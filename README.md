@@ -1,21 +1,21 @@
 # 👋 Hi there, I'm **Morad Zerbane**
 
-![Banner Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=2070&q=80)
+![Banner Image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3\&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D\&auto=format\&fit=crop\&w=2070\&q=80)
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & Web Developer** with experience in **PHP, JavaScript, Python, Bootstrap, HTML/CSS, MongoDB, Express, and Data Analysis**. I love solving complex problems, exploring new technologies, and building user-focused applications.
+I'm a passionate **Software Engineer & Web Developer** with experience in **Java Spring Framework, JavaScript, Python, Bootstrap, HTML/CSS, MongoDB, Express, and Data Analysis**. I love solving complex problems, exploring new technologies, and building user-focused applications.
 
 * 🌱 Currently learning: **React, Data Science, Node.js & AI applications**
-* 🔭 Working on: **Full-stack To-Do List App & Advanced Data Science Projects**
-* 🌍 Languages: **Arabic, French, English — plus Python, JS, PHP**
+* 🔭 Working on: **Enterprise-Level Full-stack Projects & Advanced Data Science Projects**
+* 🌍 Languages: **Arabic, French, English — plus Java, Python, JS**
 * 📫 Reach me at: **[mouradzerbane@gmail.com](mailto:mouradzerbane@gmail.com)**
 * ⚡ Fun fact: **I love traveling, discovering new ideas, and challenging myself**
 
 ## 🧠 Skills
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -23,10 +23,10 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **PHP,
 
 ## 💻 Featured Complex Projects
 
-### 🌐 MERN Full-Stack Task Manager
+### 🌐 Enterprise Task Management System (Java Spring)
 
-A sophisticated full-stack web application with **real-time updates, user authentication, role-based access control, and cloud deployment**. Ideal for managing large teams and projects.
-**Tech:** MongoDB, Express, React, Node.js, JWT, REST API, Bootstrap
+A large-scale web application for **task scheduling, role-based user management, notifications, and analytics dashboards** for corporate teams.
+**Tech:** Java Spring Boot, Thymeleaf, MySQL, REST API, Bootstrap
 **🔗 Repo:** *(add GitHub repo link)*
 
 ### 🤖 AI-Powered Sentiment Analysis Tool
@@ -47,10 +47,22 @@ A set of Python and Bash scripts for **workflow automation, file management, and
 **Tech:** Python, Bash, Selenium, Requests
 **🔗 Repo:** *(add GitHub repo link)*
 
+### 🌉 IoT Home Automation System
+
+A connected system that **monitors and controls home appliances**, integrates **sensor data analysis**, and provides a mobile dashboard.
+**Tech:** Arduino, Raspberry Pi, Python, MQTT, React Native
+**🔗 Repo:** *(add GitHub repo link)*
+
+### 🔒 Secure Authentication & Authorization System
+
+A reusable authentication module supporting **JWT, OAuth2, multi-factor authentication, and role-based access control**.
+**Tech:** Java Spring Security, JWT, OAuth2, MySQL
+**🔗 Repo:** *(add GitHub repo link)*
+
 ## 📬 Connect With Me
 
-* 🌐 **LinkedIn:** *(https://www.linkedin.com/in/mourad-zerbane/)*
-* 💼 **GitHub:** *(https://github.com/MouradPy)*
+* 🌐 **LinkedIn:** *([https://www.linkedin.com/in/mourad-zerbane/](https://www.linkedin.com/in/mourad-zerbane/))*
+* 💼 **GitHub:** *([https://github.com/MouradPy](https://github.com/MouradPy))*
 * 📝 Portfolio Website: *Coming Soon*
 
 ---
