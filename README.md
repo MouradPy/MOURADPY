@@ -9,7 +9,7 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **PHP,
 * 🌱 Currently learning: **React, Data Science, Node.js & AI applications**
 * 🔭 Working on: **Full-stack To-Do List App & Advanced Data Science Projects**
 * 🌍 Languages: **Arabic, French, English — plus Python, JS, PHP**
-* 📫 Reach me at: **[morad0894@gmail.com](mailto:morad0894@gmail.com)**
+* 📫 Reach me at: **[morad0894@gmail.com](mailto:mouradzerbane@gmail.com)**
 * ⚡ Fun fact: **I love traveling, discovering new ideas, and challenging myself**
 
 ## 🧠 Skills
