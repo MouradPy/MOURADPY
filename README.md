@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & Web Developer** with experience in **Java Spring Framework, JavaScript, Python, Bootstrap, HTML/CSS, MongoDB, Express, and Data Analysis**. I love solving complex problems, exploring new technologies, and building user-focused applications.
+I'm a passionate **Software Engineer & Web Developer** with experience in **Java Spring Framework, Hibernate, Docker, Git, JavaScript, Python, Bootstrap, HTML/CSS, MongoDB, Express, and Data Analysis**. I love solving complex problems, exploring new technologies, and building user-focused applications.
 
 * 🌱 Currently learning: **React, Data Science, Node.js & AI applications**
 * 🔭 Working on: **Enterprise-Level Full-stack Projects & Advanced Data Science Projects**
@@ -16,6 +16,9 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -26,7 +29,7 @@ I'm a passionate **Software Engineer & Web Developer** with experience in **Java
 ### 🌐 Enterprise Task Management System (Java Spring)
 
 A large-scale web application for **task scheduling, role-based user management, notifications, and analytics dashboards** for corporate teams.
-**Tech:** Java Spring Boot, Thymeleaf, MySQL, REST API, Bootstrap
+**Tech:** Java Spring Boot, Hibernate, Thymeleaf, MySQL, REST API, Bootstrap, Docker
 **🔗 Repo:** *(add GitHub repo link)*
 
 ### 🤖 AI-Powered Sentiment Analysis Tool
@@ -56,7 +59,7 @@ A connected system that **monitors and controls home appliances**, integrates **
 ### 🔒 Secure Authentication & Authorization System
 
 A reusable authentication module supporting **JWT, OAuth2, multi-factor authentication, and role-based access control**.
-**Tech:** Java Spring Security, JWT, OAuth2, MySQL
+**Tech:** Java Spring Security, JWT, OAuth2, MySQL, Docker
 **🔗 Repo:** *(add GitHub repo link)*
 
 ## 📬 Connect With Me
